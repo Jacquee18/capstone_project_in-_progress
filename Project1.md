@@ -14,7 +14,7 @@ Here are some best practices for moving data from a public API to a data lake:
 3. The rate limiting policies
 4. The error handling process
 
-####  ii)Choose the right data transfer too
+####  ii)Choose the right data transfer tool
 -There are a number of different data transfer tools available. Choose a tool that is compatible with your API and data lake. Some popular data transfer tools include:
 
 1. Apache Airflow
@@ -79,4 +79,5 @@ In the same way, you can protect your data pipeline by:
 2. Regularly backing up the data and storing the backups in different locations.
 3. By taking these steps, you can help to ensure the security and reliability of your data pipeline.
 
-
+## c) Implement this project, optimize your process, and create a GitHub repository where you will document all the processes including Screenshort, and a short video explaining the whole process.
+Go to the README.md file as i document the steps followed;
